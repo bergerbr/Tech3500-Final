@@ -1,0 +1,36 @@
+
+Name: Best Bet Computer
+Address: 1200 W Chestnut St Suite 1, Union, NJ 07083
+Website: NA
+Phone Number: (908) 687-8778 
+Google raiting: 4.7
+
+Name: Best Buy
+Address: 2391 US-22 W, Union, NJ 07083
+Website: https://www.bestbuy.com/
+Phone Number: (908) 810-2150
+Google raiting: 4.8 
+
+Name: Micro Center
+Address: 263 McLean Blvd, Paterson, NJ 07504
+Website: microcenter.com
+Phone Number: NA
+Google raiting: 4.5
+
+Name: Emtech Computer
+Address: 1347 Springfield Ave, Irvington, NJ 07111
+Website: NA
+Phone Number: (973) 373-4666
+Google raiting:  4.0
+
+Name: P.C. Richard & Son
+Address:  2264 US-22, Union, NJ 07083
+Website: https://www.pcrichard.com/
+Phone Number: (908) 810-2800
+Google raiting: 4.8
+
+Name: Computer Repair and Computer Store in Union NJ
+Address: 2290 US-22, Union, NJ 07083
+Website: NA
+Phone Number: (908) 687-8778
+Google raiting: 5.0

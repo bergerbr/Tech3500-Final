@@ -1,0 +1,109 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: rgb(27, 27, 27)
+}
+
+.container{
+    display: flex;
+    padding-left: 8%;
+   
+}
+
+.card{
+    background: white;
+    width: 500px;
+    height: 400px;
+    margin: 10px;
+    text-align: center;
+    font-size: large;
+}
+
+.card-image{
+    background-color: aqua;
+    height: 200px;
+    margin-bottom:15px;
+    background-size: cover;
+}
+
+.img-1{
+    background-image: url("bestbet.png") ;
+}
+
+.img-2{
+    background-image: url("bestbuy.png") ;
+    width: 500px;
+    height: 200px;
+}
+
+.img-3{
+    background-image: url("micro.png") ;
+    width: 500px;
+    height: 200px;
+}
+
+.img-4{
+    background-image: url("emtech.jpg") ;
+    width: 500px;
+    height: 185px;
+    
+}
+
+.img-5{
+    background-image: url("pcrich.png") ;
+    width: 500px;
+    height: 185px;
+}
+
+.img-6{
+    background-image: url("repair.png") ;
+    width: 500px;
+    height: 185px;
+}
+
+
+button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #6495ED;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    padding: 5px;
+    width: 125px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 1px;
+    height: 45px;
+  }
+
+  button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  button:hover span {
+    padding-right: 20px;
+  }
+  
+  button:hover span:after {
+    opacity: 0;
+    right: 0;
+  }
+  

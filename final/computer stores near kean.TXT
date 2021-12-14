@@ -1,0 +1,40 @@
+Repair shops list
+
+Name:The Device Shop
+Address:51 Elm St, Westfield, NJ 07090
+Website: thedeviceshop.com
+Phone Number: (908) 698-4589
+Google raiting: 4.5
+
+Name:Choice Computer Services, LLC.
+Address:393 Crescent Ave Suite N, Wyckoff, NJ 07481
+Website: NA
+Phone Number:  (201) 670-7757
+Google raiting: 5.0
+
+
+Name: U-Tech Electronics - Elizabeth
+Address:187 A Elmora Ave, Elizabeth, NJ 07202
+Website: utech.co
+Phone Number: (908) 512-7633
+Google raiting: 5.0
+
+Name: Interblueweb Computer
+Address:1378 Morris Ave, Union, NJ 07083
+Website: NA
+Phone Number: (908) 688-7877
+Google raiting: 4.8
+
+Name: Geeks2Go4U
+Address: 617 Central Ave 2nd Flr Suite 1, East Orange, NJ 07018
+Website: NA
+Phone Number: (973) 336-3725
+Google raiting: 4.8
+
+Name: U-Tech Electronics - Newark
+Address:  190 Ferry St, Newark, NJ 07105
+Website: utech.co
+Phone Number: (862) 237-7533
+Google raiting: 4.9
+
+
